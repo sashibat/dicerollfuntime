@@ -1,4 +1,4 @@
-# dicerollfuntime
+# Dice Roll Fun Time
 
 This is a cool dice thing that Sancho is working on.
 
