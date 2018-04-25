@@ -2,5 +2,5 @@
 
 import random
 
-diceSelect = 0 # Sided Dice the User Picks
+diceSelect = input('How many sided dice: ') # Sided Dice the User Picks
 
